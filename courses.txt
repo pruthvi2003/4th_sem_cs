@@ -3,3 +3,8 @@ The courses available are :
 DSP
 SE
 JAVA
+OS
+IC
+
+THANK YOU 
+WITH REGARDS
